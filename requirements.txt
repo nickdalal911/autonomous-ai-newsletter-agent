@@ -1,3 +1,7 @@
 fastapi
 uvicorn
+langchain
+langchain-groq
+tavily-python
+markdown2
 python-dotenv
