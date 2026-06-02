@@ -134,6 +134,6 @@ The system focuses on:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 Nikhil
